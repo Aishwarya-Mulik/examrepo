@@ -1,4 +1,5 @@
-C
-Chello.....
-j
-
+#include<stdio.h>
+int main()
+{
+    printf("\nfirst....");
+}
